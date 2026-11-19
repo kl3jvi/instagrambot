@@ -1,0 +1,7 @@
+version: 1
+app: orbit-notes-zovrnk
+# Replace with your suite, e.g. mvn test or npx wdio run wdio.conf.js
+command: npm test
+# Optional: one JUnit XML file to attach to the run
+# report: reports/junit.xml
+timeout: 600
